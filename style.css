@@ -19,6 +19,13 @@ body {
     padding: 15px;
 }
 
+.card img {
+    display: flex;
+    max-width: 100%;
+    max-height: 100%;
+    border-radius: 10px;
+}
+
 .card .subCard {
     background-color: #f4d04e;
     max-width: 20%;
