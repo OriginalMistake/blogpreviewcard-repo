@@ -62,12 +62,12 @@ body {
     max-width: 10%;
     max-height: 10%;
     float: left;
-    padding: 10px;
 }
 
 .card h4 {
     font-family: 'Figtree';
     font-weight: 800;
-    float: left;
+    text-align: left;
+    padding-right: 15px;
 }
 
